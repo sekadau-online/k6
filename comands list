@@ -1,1 +1,1 @@
-k6 run -e HOST=https://bgpwestkal.id ff.js // custom host ff.js default adalah
+k6 run -e HOST=https://bgpwestkal.id ff.js // custom host ff.js default adalah https://test.k6.io
